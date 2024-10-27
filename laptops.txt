@@ -1,0 +1,8 @@
+aabb1122,HP,Probook,8,Intel,Core i5,2,3.2,480,Intel HD 4000,299.99,11,3
+ccdd3344,Lenovo,Ideapad,8,Intel,Core i5,2,3.5,480,NVIDIA Geforce 940MX,499.99,15,5
+rhbv3767,ASUS,Vivobook,8,AMD,Ryzen 3,2,2.8,256,Integrated Graphics,899.99,11,5
+ubuv3465,HP,Pavilion,12,Intel,Core i7,2,3.5,1000,Intel Iris Pro 620,799.99,15,8
+lord4355,ASUS,Tower Pro,32,Intel,10900K,16,5.2,3000,NVIDIA RTX 2080 Super 8 GB,2199.99,17,3
+jtdl1567,Generic,Super-Cheap,2,Intel,Celeron,1,0.8,25,Super Graphics,100.00,11,1
+mwro6643,HP,Omen Gaming,16,Intel,i7-6200HQ,4,3.5,1000,Nvidia Graphics,699.99,15,3
+rcje1462,Dell,IXP,16,Intel,i7-9900,4,3.7,1000,gtx 1080,1200.00,15,1

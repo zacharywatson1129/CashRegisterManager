@@ -1,0 +1,5 @@
+ppzz6789,HP,Pavilion Gaming Desktop,16,Intel,Core i5-10400K,6,4.3,1000,Nvidia GeForce RTX 3070,899.99,true,true,true,false
+qwer9871,Dell,XPS Tower,16,Intel,Core i5-10400,6,4.3,1000,Intel UHD Graphics 630,699.00,true,false,true,false
+poiu1597,Asus,ROG Strix Desktop,16,AMD, RYZEN 7 3700X,6,4.4,1000,NVIDIA Titan 1080 Ti,999.99,true,true,true,true
+zpqm1378,Acer,Aspire,12,Intel,Core i5-10400,6,4.3,512,Intel UHD Graphics 630,975.89,false,false,true,true
+wwfn0203,Dell,Optiplex,16,Intel,9900K,8,4.5,2000,NVIDIA RTX 2070 Super,1299.99,true,true,true,true
